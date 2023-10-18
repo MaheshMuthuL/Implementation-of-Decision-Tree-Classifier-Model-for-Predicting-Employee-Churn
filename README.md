@@ -63,12 +63,86 @@ Register Number:212222040093
 
 ## Output:
 
+
+ 1.Initial data set
+
+
+ 
+
 ![Screenshot (69)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/7d517752-acf3-467d-b3bc-87cfe646e705)
+
+
+
+
+
+
+2. Data Info
+
+
+
+
+
+
 ![Screenshot (70)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/abf43f26-9ba0-432c-8dc2-2f70f59a5f94)
+
+
+
+
+
+3. Optimization of null values
+
+
+
+
+
 ![Screenshot (71)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/4b51b1b1-2d3b-491e-8c36-70cbffed80df)
+
+
+
+
+
+
+4.Assignment of X and Y values
+
+
+
+
+
 ![Screenshot (72)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/f3654906-27d2-4ae7-bd48-534e79b40ddb)
+
+
+
+
+
+5.Converting string literals to numerical values using label encoder
+
+
+
+
+
 ![Screenshot (73)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/a06a5d4d-1939-4417-9fae-a707a3860057)
+
+
+
+
+6. Accuracy
+
+
+
+
+
 ![Screenshot (74)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/f722f0e0-927a-4795-b9d0-41cc6a79e9ff)
+
+
+
+
+
+
+7. Prediction
+
+
+
+
 ![Screenshot (75)](https://github.com/MaheshMuthuL/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/135570619/1fb54cd8-b8ec-40d8-94a3-644a4c3ebe45)
 
 
